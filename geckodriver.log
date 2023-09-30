@@ -1,0 +1,318 @@
+1696073947554	geckodriver	INFO	Listening on 127.0.0.1:55881
+1696073950648	mozrunner::runner	INFO	Running command: "C:\\Users\\varsha\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" " ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varsha\\AppData\\Local\\Temp\\rust_mozprofileALRjjR"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696073950993	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696073951062	Marionette	INFO	Listening on port 55890
+WebDriver BiDi listening on ws://127.0.0.1:55882
+Read port: 55890
+1696073951332	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55882/devtools/browser/26991706-033f-4ea4-961d-78cbe7a6ad19
+1696073953649	Marionette	INFO	Stopped listening on port 55890
+Dynamically enable window occlusion 1
+1696074022047	geckodriver	INFO	Listening on 127.0.0.1:55965
+1696074025110	mozrunner::runner	INFO	Running command: "C:\\Users\\varsha\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" " ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varsha\\AppData\\Local\\Temp\\rust_mozprofilehZdm6o"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696074025443	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696074025521	Marionette	INFO	Listening on port 55973
+WebDriver BiDi listening on ws://127.0.0.1:55966
+Read port: 55973
+1696074025758	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:55966/devtools/browser/c8287121-a6ba-4bb5-8324-ad4448602678
+1696074028184	Marionette	INFO	Stopped listening on port 55973
+Dynamically enable window occlusion 1
+1696074051375	geckodriver	INFO	Listening on 127.0.0.1:56035
+1696074054448	mozrunner::runner	INFO	Running command: "C:\\Users\\varsha\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" " ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varsha\\AppData\\Local\\Temp\\rust_mozprofilebKyjHn"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696074054748	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696074054820	Marionette	INFO	Listening on port 56044
+WebDriver BiDi listening on ws://127.0.0.1:56036
+Read port: 56044
+1696074055048	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56036/devtools/browser/e01b93e8-90db-4793-83d7-31d7a1919ba3
+1696074057963	Marionette	INFO	Stopped listening on port 56044
+Dynamically enable window occlusion 1
+1696074179458	geckodriver	INFO	Listening on 127.0.0.1:56155
+1696074182527	mozrunner::runner	INFO	Running command: "C:\\Users\\varsha\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" " ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varsha\\AppData\\Local\\Temp\\rust_mozprofile11y3bw"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696074182868	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696074182942	Marionette	INFO	Listening on port 56163
+WebDriver BiDi listening on ws://127.0.0.1:56156
+Read port: 56163
+1696074183187	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56156/devtools/browser/060dec9d-2ccb-4149-9406-5ba3ad2436e2
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://cdn.privacy-mgmt.com/Notice.ac8ce.js, line 1: Script terminated by timeout at:
+m@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:138345
+w@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:19136
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:16994
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+g@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13306
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 4583 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 4832 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 2183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696074369188	geckodriver	INFO	Listening on 127.0.0.1:56360
+1696074372261	mozrunner::runner	INFO	Running command: "C:\\Users\\varsha\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" " ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varsha\\AppData\\Local\\Temp\\rust_mozprofileiKlXIj"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696074372585	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696074372680	Marionette	INFO	Listening on port 56368
+WebDriver BiDi listening on ws://127.0.0.1:56361
+Read port: 56368
+1696074372900	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56361/devtools/browser/296b5faa-49a4-4cc2-a7b8-c26bdc98fb79
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+console.error: (new TypeError("lazy.AsyncShutdown.profileBeforeChange is undefined", "resource://services-settings/Database.sys.mjs", 593))
+JavaScript warning: https://cdn.privacy-mgmt.com/Notice.ac8ce.js, line 1: Script terminated by timeout at:
+b@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14993
+2mXy/O/<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18420
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18440
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+O@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:18478
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17320
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+2mXy/f/t.__k<@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13734
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14504
+h@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:14479
+f@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13519
+y@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:17219
+g@https://cdn.privacy-mgmt.com/Notice.ac8ce.js:1:13306
+
+JavaScript warning: https://pagead2.googlesyndication.com/bg/BAadeGEE1qHjsQ6c_rqFtjeXulPdvwUFIKdhRpM9mgY.js line 2 > eval line 5183 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 4077 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://pagead2.googlesyndication.com/bg/fKmd0_GjkmbwxuPCHGJrquWY3DKtsFUpFSxCST8vOts.js line 2 > eval line 5588 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+1696074830638	geckodriver	INFO	Listening on 127.0.0.1:56675
+1696074833733	mozrunner::runner	INFO	Running command: "C:\\Users\\varsha\\AppData\\Local\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" " ... " "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\varsha\\AppData\\Local\\Temp\\rust_mozprofilerGUQ5O"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1696074834071	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1696074834141	Marionette	INFO	Listening on port 56683
+WebDriver BiDi listening on ws://127.0.0.1:56676
+Read port: 56683
+1696074834380	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:56676/devtools/browser/26e32b4d-e0fb-4aed-bff9-92f906abc2c4
+1696074837458	Marionette	INFO	Stopped listening on port 56683
+JavaScript warning: https://m.files.bbci.co.uk/modules/bbc-morph-news-front-page-js-bundle/1.56.4/newsFrontPage.js, line 1: Script terminated by timeout at:
+m.prototype.registerScrollEvent/this.interval<@https://m.files.bbci.co.uk/modules/bbc-morph-news-front-page-js-bundle/1.56.4/newsFrontPage.js:1:8830
+
+Dynamically enable window occlusion 1
